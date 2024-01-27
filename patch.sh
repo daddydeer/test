@@ -1,5 +1,7 @@
 #!/usr/din/bash
-echo "it is not fixed!"
+<<<<<<< HEAD
+echo "it is not yet fixed!"
+
 
 exit 0
 
