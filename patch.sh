@@ -1,5 +1,5 @@
 #!/usr/din/bash
-echo "fixed!"
+echo "it is not yet fixed!"
 
 exit 0
 
